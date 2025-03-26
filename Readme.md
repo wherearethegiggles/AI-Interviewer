@@ -19,6 +19,7 @@ DEEPGRAM_API_KEY=...
 OPENAI_API_KEY=...
 COHERE_API_KEY=...
 ```
+NOTE: Provide file_path for the resume.pdf on app.py code before you run. 
 
 Then, run the app:
 
@@ -28,6 +29,7 @@ $ export SSL_CERT_FILE=$(python -m certifi) python3 app.py start
 ```
 
 Finally, you can load the [hosted playground](https://agents-playground.livekit.io/) and connect it.
+
 
 
 # Usage Guide
