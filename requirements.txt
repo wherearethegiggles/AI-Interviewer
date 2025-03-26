@@ -1,0 +1,17 @@
+python-dotenv==1.0.1
+livekit==0.22.0
+livekit-agents==0.12.18
+livekit-api==0.8.2
+livekit-plugins-deepgram==0.7.1
+livekit-plugins-openai==0.12.0
+livekit-plugins-silero==0.7.5
+langchain==0.3.21
+langchain-community==0.3.20
+langchain-core==0.3.48
+langchain-openai==0.3.10
+langchain-text-splitters==0.3.7
+cohere==5.14.0
+deepgram-sdk==3.10.1
+openai==1.68.2
+silero==0.4.1
+pypdf==5.4.0
